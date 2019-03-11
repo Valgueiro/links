@@ -18,7 +18,6 @@
 * [JSHint, a JavaScript Code Quality Tool](http://jshint.com/)
 * [What is gulp.js and why use it?](http://brandonclapp.com/what-is-gulp-js-and-why-use-it/)
 * [Yeoman Fountain generators](http://fountainjs.io/)
-* [Documentation | anime.js](http://animejs.com/documentation/#reverseAnim)
 * [anime.js](http://animejs.com/)
 
 
