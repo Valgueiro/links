@@ -26,13 +26,13 @@ def get_bookmarks(elements):
     return bms
 
 def make_url_markdown(url):
-    return f"* [{url['title']}](url['url'])\n"
+    return f"* [{url['title']}]({url['url']})\n"
 
 def make_folder_markdown(folder, hierarchy=2):
     md = ""
     for i in range(0, hierarchy):
         md += "#"
-    print(md)
+        
     md += f" {folder['title']} \n\n"
 
     for child in folder["children"]:
